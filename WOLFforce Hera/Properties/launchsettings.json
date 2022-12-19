@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "WOLFforce Hera (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "WOLFforce Hera (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
